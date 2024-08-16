@@ -1,6 +1,6 @@
-# Setup a Static Website Using Nginx
+# Project1 Documentation 
 
-Welcome to your first project. Get ready to launch your very own static website. In this project, you'll be:
+Welcome to your my first project in DevOps Beginner Course. Get ready to launch your very own static website. In this project, you'll be:
 
 - **Building with Nginx:** We'll set up Nginx as your web server, the engine that delivers your website content to the world.
 - **Connecting with Route53:** You'll learn how to configure Amazon Route53, the DNS service that directs visitors to your website's location.
@@ -11,7 +11,7 @@ By the end of this project, you'll have a fully deployed and secure static websi
 > [!NOTE]
 An AWS account is required to carry out this project so ensure you get 1.
 
-## Introduction
+## Introduction to Project1
 
 Before we begin the project, let's review some of the key concepts and tasks we'll be tackling.
 
