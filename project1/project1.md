@@ -1,12 +1,12 @@
 # Documentation of Project1 
 
-Welcome to your my first project in DevOps Beginner Course. In this project, will be:
+Welcome to my first project in DevOps Beginner Course. In this project, I will be:
 
 - **Building with Nginx:** 
 - **Connecting with Route53:** 
 - **Securing with Certbot:**
 
-By the end of this project, I would have fully deployed and secured a static website ready to share with the world!
+By the end of this project, I would have fully deployed and secured a static website on EC2 ready to shared with the world!
 
 ## Introduction
 
