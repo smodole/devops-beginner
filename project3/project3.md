@@ -189,8 +189,6 @@ To make your website accessible via your domain name rather than the IP address,
 
 ![21](img/21.mov)
 
-
-
 - It is recommended to renew your LetsEncrypt certificate at least every 60 days or more frequently. You can test renewal command in dry-run mode:
 `sudo certbot renew --dry-run`
 
