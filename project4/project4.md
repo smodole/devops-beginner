@@ -51,11 +51,11 @@
     follow the steps taken in PROJECT 1 to allocate and associate an
     elastic IP to the instance
     
-![02](img/02.jpg)
+![2](img/2.jpg)
 
 -   Create a Key Pair that you will use to logon into your Linux server
 -   
-![01](img/01.jpg)
+![1](img/1.jpg)
 
 -   In the ***Security*** properties of the instance, select ***Security
     Group***
