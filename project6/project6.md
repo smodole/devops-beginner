@@ -4,14 +4,14 @@
 
 Open the VsCode
 
-<img src="./media/image1.jpeg"
+<img src="./img/image1.jpeg"
 style="width:6.26806in;height:3.61389in" />
 
 **USE BASH FOR THIS PROJECT**
 
 Open a new terminal with bash
 
-<img src="./media/image2.jpeg"
+<img src="./img/image2.jpeg"
 style="width:6.26806in;height:2.30764in" />
 
 **USING GITBASH**
@@ -23,7 +23,7 @@ Create Project Environment Using the following command:
 > flask_api_project/static/style.css && python -m venv
 > flask_api_project/venv*
 
-<img src="./media/image3.jpeg"
+<img src="./img/image3.jpeg"
 style="width:6.26806in;height:2.30764in" />
 
 **DEVELOPING THE APPLICATION**
@@ -97,7 +97,7 @@ style="width:6.26806in;height:2.30764in" />
 >
 > *app.run(debug=True)*
 
-<img src="./media/image4.jpeg"
+<img src="./img/image4.jpeg"
 style="width:6.26806in;height:2.65417in" />
 
 2.  In the **index.html** in the templates directory paste the code
@@ -175,7 +175,7 @@ style="width:6.26806in;height:2.65417in" />
 >
 > \</html\>
 
-<img src="./media/image5.jpeg"
+<img src="./img/image5.jpeg"
 style="width:5.04255in;height:2.13523in" />
 
 3.  In the **style.css** in the static directory paste this code below
@@ -201,43 +201,43 @@ style="width:5.04255in;height:2.13523in" />
 >
 > }
 
-<img src="./media/image6.jpeg"
+<img src="./img/image6.jpeg"
 style="width:6.26806in;height:2.65417in" />
 
 4.  Running the Application
 
-<img src="./media/image7.jpeg"
+<img src="./img/image7.jpeg"
 style="width:4.31915in;height:1.82892in" />
 
 5.  Open your browser and go to http://127.0.0.1:5000 to see your
     application.
 
-<img src="./media/image8.jpeg"
+<img src="./img/image8.jpeg"
 style="width:5.65957in;height:1.11235in" />
 
-<img src="./media/image9.jpeg"
+<img src="./img/image9.jpeg"
 style="width:5.65903in;height:1.11224in" />
 
 **TESTING THE API USING POSTMAN**
 
 1.  Install Postman
 
-<img src="./media/image10.jpeg"
+<img src="./img/image10.jpeg"
 style="width:6.26806in;height:1.04444in" />
 
 2.  Create a new request
 
-<img src="./media/image11.jpeg"
+<img src="./img/image11.jpeg"
 style="width:4.79787in;height:1.77914in" />
 
 3.  Set the request type to POST and enter <http://127.0.0.1:5000/users>
 
-<img src="./media/image12.jpeg"
+<img src="./img/image12.jpeg"
 style="width:6.26806in;height:2.32431in" />
 
 4.  Go to the Body tab, select raw, and choose JSON from the dropdown.
 
-<img src="./media/image13.jpeg"
+<img src="./img/image13.jpeg"
 style="width:6.26806in;height:2.32431in" />
 
 5.  Enter the following JSON data and Click Send and check the response.
@@ -252,7 +252,7 @@ style="width:6.26806in;height:2.32431in" />
 >
 > }
 
-<img src="./media/image14.jpeg"
+<img src="./img/image14.jpeg"
 style="width:6.26806in;height:3.10764in" />
 
 The result show that our application is working.
@@ -263,5 +263,5 @@ For the Postman to work fine with an application running locally on my
 machine, I have to run a Postman Agent. This will make you avoid an
 error like the one below:
 
-<img src="./media/image15.jpeg"
+<img src="./img/image15.jpeg"
 style="width:6.26806in;height:3.10903in" />
